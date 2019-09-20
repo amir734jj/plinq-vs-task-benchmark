@@ -2,7 +2,7 @@
 PLINQ vs Task array benchmarking
 
 ### Result:
-- `50000` objects
+- `500` iterations of bin packing (best fit approach) with 10000 bins
 - Running on i7 10th gen
 
 
